@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DuncanIdleSpritesheet_0: -3454290331190804701
+      DuncanIdleSpritesheet_1: -8999282781882174178
+      DuncanIdleSpritesheet_2: -3824545268321911678
+      DuncanIdleSpritesheet_3: -7213942313310848537
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
