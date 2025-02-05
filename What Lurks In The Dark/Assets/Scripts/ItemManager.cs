@@ -1,11 +1,6 @@
 using UnityEngine;
 
-/// <summary>
-/// Drag a Rigidbody2D by selecting one of its colliders by pressing the mouse down.
-/// When the collider is selected, add a TargetJoint2D.
-/// While the mouse is moving, continually set the target to the mouse position.
-/// When the mouse is released, the TargetJoint2D is deleted.`
-/// </summary>
+
 public class DragTarget : MonoBehaviour
 {
 	public LayerMask m_DragLayers;
