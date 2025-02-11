@@ -456,7 +456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: 0
-  _as: {fileID: 1333188392}
+  _AudioSource: {fileID: 1333188392}
   _cartoonChompSoundEffect: {fileID: 8300000, guid: 7c307a4b2acf38c47be0d632e98aa4fe, type: 3}
 --- !u!82 &1333188392
 AudioSource:
@@ -467,7 +467,7 @@ AudioSource:
   m_GameObject: {fileID: 1333188385}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 319377b0309f6f54ab5be7b0ab216a3d, type: 2}
   m_audioClip: {fileID: 8300000, guid: 7c307a4b2acf38c47be0d632e98aa4fe, type: 3}
   m_Resource: {fileID: 8300000, guid: 7c307a4b2acf38c47be0d632e98aa4fe, type: 3}
   m_PlayOnAwake: 0
