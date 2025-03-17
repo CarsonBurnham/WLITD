@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -125,12 +125,12 @@ TextureImporter:
       name: DuncanIdleSpritesheet_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 542
-        width: 352
-        height: 468
+        x: 48
+        y: 543
+        width: 350
+        height: 466
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: DuncanIdleSpritesheet_1
       rect:
         serializedVersion: 2
-        x: 566
-        y: 547
-        width: 340
-        height: 459
+        x: 567
+        y: 548
+        width: 338
+        height: 457
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -169,12 +169,12 @@ TextureImporter:
       name: DuncanIdleSpritesheet_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 30
-        width: 352
-        height: 468
+        x: 50
+        y: 31
+        width: 348
+        height: 466
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -191,12 +191,12 @@ TextureImporter:
       name: DuncanIdleSpritesheet_3
       rect:
         serializedVersion: 2
-        x: 566
-        y: 35
-        width: 340
-        height: 459
+        x: 567
+        y: 36
+        width: 338
+        height: 457
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -213,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c45c5f8f96e9c3e4ca7caadd3198a7b3
     internalID: 0
     vertices: []
     indices: 
