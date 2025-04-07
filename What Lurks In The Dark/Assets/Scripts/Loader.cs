@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public static class Loader 
+public static class Loader
 {
 public enum Scene 
 {
-    SampleScene,
+    GameScene,
 }
 
 public static void Load(Scene scene)

@@ -897,7 +897,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DuncanTransformation_0: -8725638494058992226
+      DuncanTransformation_1: -7458440865570098670
+      DuncanTransformation_10: -384341841778882349
+      DuncanTransformation_11: -2356507683798134436
+      DuncanTransformation_12: -1242561758238333437
+      DuncanTransformation_13: 4557315329879815288
+      DuncanTransformation_14: -3302384560696595396
+      DuncanTransformation_15: -5871362305371078355
+      DuncanTransformation_16: 1684463783538546315
+      DuncanTransformation_17: 5293591247008429304
+      DuncanTransformation_18: 2778003389463527707
+      DuncanTransformation_19: -8606403340130188260
+      DuncanTransformation_2: -907107365316067142
+      DuncanTransformation_20: -1734632987207660184
+      DuncanTransformation_21: -4820231142595708943
+      DuncanTransformation_22: -8120120573701167481
+      DuncanTransformation_23: -5318431778557531799
+      DuncanTransformation_24: -5072215929680174541
+      DuncanTransformation_25: -2207959238757952651
+      DuncanTransformation_26: 8555936101986469639
+      DuncanTransformation_27: -3966288119716703607
+      DuncanTransformation_28: -9027880924819704150
+      DuncanTransformation_29: 5349707223855257198
+      DuncanTransformation_3: -8757312354722690116
+      DuncanTransformation_30: 3383051895771903765
+      DuncanTransformation_4: -1970080198839261131
+      DuncanTransformation_5: 7940862265588916733
+      DuncanTransformation_6: 880276855383527876
+      DuncanTransformation_7: 856956387498759601
+      DuncanTransformation_8: 921333541547087445
+      DuncanTransformation_9: -4525818579969498840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
