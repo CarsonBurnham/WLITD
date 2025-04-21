@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 29585153e81d2484f8a0ce0accec9004
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7535557915119578687
+    second: DuncanHungry2_0
+  - first:
+      213: 6471369550382919353
+    second: DuncanHungry2_1
+  - first:
+      213: 3696298847563140187
+    second: DuncanHungry2_2
+  - first:
+      213: 1188676916867334575
+    second: DuncanHungry2_3
+  - first:
+      213: 6623124847808730554
+    second: DuncanHungry2_4
+  - first:
+      213: -5441557268187918069
+    second: DuncanHungry2_5
+  - first:
+      213: -4113107451730230038
+    second: DuncanHungry2_6
+  - first:
+      213: -3870549136478373663
+    second: DuncanHungry2_7
+  - first:
+      213: -4035091357917474918
+    second: DuncanHungry2_8
+  - first:
+      213: -3861649023099767961
+    second: DuncanHungry2_9
+  - first:
+      213: 7567315453256363921
+    second: DuncanHungry2_10
+  - first:
+      213: -4606678864223539172
+    second: DuncanHungry2_11
+  - first:
+      213: 263925825504236239
+    second: DuncanHungry2_12
+  - first:
+      213: 4657911197689069852
+    second: DuncanHungry2_13
+  - first:
+      213: 7222980673539173590
+    second: DuncanHungry2_14
+  - first:
+      213: -8168524042473189609
+    second: DuncanHungry2_15
+  - first:
+      213: -1938293808604951651
+    second: DuncanHungry2_16
+  - first:
+      213: -4170040377600493426
+    second: DuncanHungry2_17
+  - first:
+      213: -2582568150697879717
+    second: DuncanHungry2_18
+  - first:
+      213: -2342630761428853327
+    second: DuncanHungry2_19
+  - first:
+      213: 7288914274881111797
+    second: DuncanHungry2_20
+  - first:
+      213: -5734785874600443076
+    second: DuncanHungry2_21
+  - first:
+      213: 8442037776350031018
+    second: DuncanHungry2_22
+  - first:
+      213: -2189839820765365320
+    second: DuncanHungry2_23
+  - first:
+      213: -7865856671680780247
+    second: DuncanHungry2_24
+  - first:
+      213: 689956320181872076
+    second: DuncanHungry2_25
+  - first:
+      213: 6304282350007026094
+    second: DuncanHungry2_26
+  - first:
+      213: 3668407185631452274
+    second: DuncanHungry2_27
+  - first:
+      213: 2233609358259884491
+    second: DuncanHungry2_28
+  - first:
+      213: -5899149599233580810
+    second: DuncanHungry2_29
+  - first:
+      213: 3518960331227221624
+    second: DuncanHungry2_30
+  - first:
+      213: -7426465794677898592
+    second: DuncanHungry2_31
+  - first:
+      213: 4974367458721357887
+    second: DuncanHungry2_32
+  - first:
+      213: -7111087397970640933
+    second: DuncanHungry2_33
+  - first:
+      213: 7092524523656952008
+    second: DuncanHungry2_34
+  - first:
+      213: -6243291669814616420
+    second: DuncanHungry2_35
+  - first:
+      213: 1141746121963953160
+    second: DuncanHungry2_36
+  - first:
+      213: -3629820666704560988
+    second: DuncanHungry2_37
+  - first:
+      213: 563370458037850461
+    second: DuncanHungry2_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuncanHungry2_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2554
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11ae450025c6790800000000000000
+      internalID: -7535557915119578687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_1
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2554
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6adcb15ceec950800000000000000
+      internalID: 6471369550382919353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2553
+        width: 320
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ccfa0d734eb4330800000000000000
+      internalID: 3696298847563140187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_3
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2553
+        width: 320
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa18596ab570f7010800000000000000
+      internalID: 1188676916867334575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_4
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5d3b055f01aeb50800000000000000
+      internalID: 6623124847808730554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_5
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d6b4ce74bb74b0800000000000000
+      internalID: -5441557268187918069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_6
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48b98909e4be6c0800000000000000
+      internalID: -4113107451730230038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f282411c094ac0800000000000000
+      internalID: -3870549136478373663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f841fe9c97008c0800000000000000
+      internalID: -4035091357917474918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_9
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76377e26caaa86ac0800000000000000
+      internalID: -3861649023099767961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_10
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6ba6bf41840960800000000000000
+      internalID: 7567315453256363921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_11
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f7afeaf9c110c0800000000000000
+      internalID: -4606678864223539172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_12
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25b34d327a9a300800000000000000
+      internalID: 263925825504236239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_13
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11429d3e8934a040800000000000000
+      internalID: 4657911197689069852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc60d157ae2d3460800000000000000
+      internalID: 7222980673539173590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc52d79a293ae80800000000000000
+      internalID: -8168524042473189609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_16
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b43c3fc0cc915e0800000000000000
+      internalID: -1938293808604951651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_17
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e883612de5a0126c0800000000000000
+      internalID: -4170040377600493426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_18
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b575a6133ffd82cd0800000000000000
+      internalID: -2582568150697879717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_19
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5129fbbd4d7fd0800000000000000
+      internalID: -2342630761428853327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_20
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f600982aec672560800000000000000
+      internalID: 7288914274881111797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33438991a2f960b0800000000000000
+      internalID: -5734785874600443076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_22
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca5c731a4282570800000000000000
+      internalID: 8442037776350031018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb764809402c91e0800000000000000
+      internalID: -2189839820765365320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_24
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a45e380dd6d290800000000000000
+      internalID: -7865856671680780247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_25
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e9fe1e97339900800000000000000
+      internalID: 689956320181872076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_26
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10fe3556f4d7750800000000000000
+      internalID: 6304282350007026094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_27
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1052
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c9d0736ecc8e230800000000000000
+      internalID: 3668407185631452274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1911e80ef5ffe10800000000000000
+      internalID: 2233609358259884491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06bccc1b2022ea0800000000000000
+      internalID: -5899149599233580810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_30
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e4d79e6cbd5d030800000000000000
+      internalID: 3518960331227221624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_31
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a282a3f4b4efe890800000000000000
+      internalID: -7426465794677898592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_32
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30695f29d0880540800000000000000
+      internalID: 4974367458721357887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_33
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 552
+        width: 307
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdff33d00b7505d90800000000000000
+      internalID: -7111087397970640933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_34
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 553
+        width: 320
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8b159f975bd6260800000000000000
+      internalID: 7092524523656952008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 53
+        width: 320
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5b8ffd4f5b59a0800000000000000
+      internalID: -6243291669814616420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_36
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 54
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c57577c0c48df00800000000000000
+      internalID: 1141746121963953160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_37
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 54
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf3b2d55940adc0800000000000000
+      internalID: -3629820666704560988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanHungry2_38
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 54
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519b4c527e71d700800000000000000
+      internalID: 563370458037850461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

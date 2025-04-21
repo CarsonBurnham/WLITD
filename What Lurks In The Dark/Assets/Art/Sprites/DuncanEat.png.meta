@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 64a5271e933b51342aa2904fa59b2a9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5117556572675854520
+    second: DuncanEat_0
+  - first:
+      213: 217295690098073356
+    second: DuncanEat_1
+  - first:
+      213: 4009424925863660789
+    second: DuncanEat_2
+  - first:
+      213: -4020154276290922928
+    second: DuncanEat_3
+  - first:
+      213: 7543077348738418272
+    second: DuncanEat_4
+  - first:
+      213: 3966509301544224781
+    second: DuncanEat_5
+  - first:
+      213: 222141225675197449
+    second: DuncanEat_6
+  - first:
+      213: -5759682711228365918
+    second: DuncanEat_7
+  - first:
+      213: 1151703905351743810
+    second: DuncanEat_8
+  - first:
+      213: -7681490740832694735
+    second: DuncanEat_9
+  - first:
+      213: -2346386662890419497
+    second: DuncanEat_10
+  - first:
+      213: 3929275316150956296
+    second: DuncanEat_11
+  - first:
+      213: -7805585566374578982
+    second: DuncanEat_12
+  - first:
+      213: 8315477398443670801
+    second: DuncanEat_13
+  - first:
+      213: 7824186238824674100
+    second: DuncanEat_14
+  - first:
+      213: -5128154946701445579
+    second: DuncanEat_15
+  - first:
+      213: 8982751869526947412
+    second: DuncanEat_16
+  - first:
+      213: -3298133949092028994
+    second: DuncanEat_17
+  - first:
+      213: 1178166994843910037
+    second: DuncanEat_18
+  - first:
+      213: 7919467004581179514
+    second: DuncanEat_19
+  - first:
+      213: 5009166373250526096
+    second: DuncanEat_20
+  - first:
+      213: 2090591387633919634
+    second: DuncanEat_21
+  - first:
+      213: 4559140684628401899
+    second: DuncanEat_22
+  - first:
+      213: 8400939774064565232
+    second: DuncanEat_23
+  - first:
+      213: 5493444349530893356
+    second: DuncanEat_24
+  - first:
+      213: -7731318253285631675
+    second: DuncanEat_25
+  - first:
+      213: 3781879800395547657
+    second: DuncanEat_26
+  - first:
+      213: -7374332737352666240
+    second: DuncanEat_27
+  - first:
+      213: -4653625380356043700
+    second: DuncanEat_28
+  - first:
+      213: 8882061757916441723
+    second: DuncanEat_29
+  - first:
+      213: 5426135272200210528
+    second: DuncanEat_30
+  - first:
+      213: 2167277959796946838
+    second: DuncanEat_31
+  - first:
+      213: -5393616860406863671
+    second: DuncanEat_32
+  - first:
+      213: -2906647885234173418
+    second: DuncanEat_33
+  - first:
+      213: 6330023660380719292
+    second: DuncanEat_34
+  - first:
+      213: -3444097436131507055
+    second: DuncanEat_35
+  - first:
+      213: -4366928740974573868
+    second: DuncanEat_36
+  - first:
+      213: 6333277370656936816
+    second: DuncanEat_37
+  - first:
+      213: -4620390846369376194
+    second: DuncanEat_38
+  - first:
+      213: 6592053355466216785
+    second: DuncanEat_39
+  - first:
+      213: 6386889708051186394
+    second: DuncanEat_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuncanEat_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fa0bf3969caf8b0800000000000000
+      internalID: -5117556572675854520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fd483674df30300800000000000000
+      internalID: 217295690098073356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc43bb2ab654a730800000000000000
+      internalID: 4009424925863660789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05679634cfa8538c0800000000000000
+      internalID: -4020154276290922928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_4
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06649dc32e46ea860800000000000000
+      internalID: 7543077348738418272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_5
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0883dcb13fdb0730800000000000000
+      internalID: 3966509301544224781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_6
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2608
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c075e8444351300800000000000000
+      internalID: 222141225675197449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3464a171f7110b0800000000000000
+      internalID: -5759682711228365918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249bbe4999cabff00800000000000000
+      internalID: 1151703905351743810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_9
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e07379edcd56590800000000000000
+      internalID: -7681490740832694735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_10
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac3b403c5ff6fd0800000000000000
+      internalID: -2346386662890419497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_11
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80173e3f417978630800000000000000
+      internalID: 3929275316150956296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_12
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b35c784dfca390800000000000000
+      internalID: -7805585566374578982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_13
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2096
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d3608f2a2866370800000000000000
+      internalID: 8315477398443670801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f4ad0ee7159c60800000000000000
+      internalID: 7824186238824674100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536b2b00f3225d8b0800000000000000
+      internalID: -5128154946701445579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_16
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45631a09b3529ac70800000000000000
+      internalID: 8982751869526947412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_17
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd96b6c5acaa32d0800000000000000
+      internalID: -3298133949092028994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_18
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb2cdb3a0b95010800000000000000
+      internalID: 1178166994843910037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_19
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70fc72184997ed60800000000000000
+      internalID: 7919467004581179514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_20
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1584
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bed6ad642248540800000000000000
+      internalID: 5009166373250526096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29629666ac5430d10800000000000000
+      internalID: 2090591387633919634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee9e4c1c42554f30800000000000000
+      internalID: 4559140684628401899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_23
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9194e632269470800000000000000
+      internalID: 8400939774064565232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_24
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c6a27c782ac3c40800000000000000
+      internalID: 5493444349530893356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_25
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499a6bc207d4b490800000000000000
+      internalID: -7731318253285631675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_26
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044dc524afeb7430800000000000000
+      internalID: 3781879800395547657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_27
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1072
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837f8e327b19a990800000000000000
+      internalID: -7374332737352666240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc22e5f500b6fb0800000000000000
+      internalID: -4653625380356043700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_29
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce0b11c1c634b70800000000000000
+      internalID: 8882061757916441723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_30
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06806baf7418d4b40800000000000000
+      internalID: 5426135272200210528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_31
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697fa3b52d7b31e10800000000000000
+      internalID: 2167277959796946838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_32
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c824e4ca060625b0800000000000000
+      internalID: -5393616860406863671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_33
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0a71062389a7d0800000000000000
+      internalID: -2906647885234173418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_34
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 560
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb88fc03bf2c8d750800000000000000
+      internalID: 6330023660380719292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944c8321ab1430d0800000000000000
+      internalID: -3444097436131507055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_36
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 48
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d644c2727d8563c0800000000000000
+      internalID: -4366928740974573868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_37
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 48
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073d606a63254e750800000000000000
+      internalID: 6333277370656936816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_38
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 48
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38dfae410311efb0800000000000000
+      internalID: -4620390846369376194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_39
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 48
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1555cf0c99dab7b50800000000000000
+      internalID: 6592053355466216785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanEat_40
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 48
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad24dfba95ac2a850800000000000000
+      internalID: 6386889708051186394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DuncanEat_0: -5117556572675854520
+      DuncanEat_1: 217295690098073356
+      DuncanEat_10: -2346386662890419497
+      DuncanEat_11: 3929275316150956296
+      DuncanEat_12: -7805585566374578982
+      DuncanEat_13: 8315477398443670801
+      DuncanEat_14: 7824186238824674100
+      DuncanEat_15: -5128154946701445579
+      DuncanEat_16: 8982751869526947412
+      DuncanEat_17: -3298133949092028994
+      DuncanEat_18: 1178166994843910037
+      DuncanEat_19: 7919467004581179514
+      DuncanEat_2: 4009424925863660789
+      DuncanEat_20: 5009166373250526096
+      DuncanEat_21: 2090591387633919634
+      DuncanEat_22: 4559140684628401899
+      DuncanEat_23: 8400939774064565232
+      DuncanEat_24: 5493444349530893356
+      DuncanEat_25: -7731318253285631675
+      DuncanEat_26: 3781879800395547657
+      DuncanEat_27: -7374332737352666240
+      DuncanEat_28: -4653625380356043700
+      DuncanEat_29: 8882061757916441723
+      DuncanEat_3: -4020154276290922928
+      DuncanEat_30: 5426135272200210528
+      DuncanEat_31: 2167277959796946838
+      DuncanEat_32: -5393616860406863671
+      DuncanEat_33: -2906647885234173418
+      DuncanEat_34: 6330023660380719292
+      DuncanEat_35: -3444097436131507055
+      DuncanEat_36: -4366928740974573868
+      DuncanEat_37: 6333277370656936816
+      DuncanEat_38: -4620390846369376194
+      DuncanEat_39: 6592053355466216785
+      DuncanEat_4: 7543077348738418272
+      DuncanEat_40: 6386889708051186394
+      DuncanEat_5: 3966509301544224781
+      DuncanEat_6: 222141225675197449
+      DuncanEat_7: -5759682711228365918
+      DuncanEat_8: 1151703905351743810
+      DuncanEat_9: -7681490740832694735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 683f3db4e1e3ecf48bf4661833d29f09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1438653445191060589
+    second: DuncanFeet_0
+  - first:
+      213: -3964765908964054387
+    second: DuncanFeet_1
+  - first:
+      213: 4970718555057266521
+    second: DuncanFeet_2
+  - first:
+      213: -3335936789419947349
+    second: DuncanFeet_3
+  - first:
+      213: 6444090054089162440
+    second: DuncanFeet_4
+  - first:
+      213: 7712881850946252269
+    second: DuncanFeet_5
+  - first:
+      213: -2390539765869863959
+    second: DuncanFeet_6
+  - first:
+      213: 1996443345565032245
+    second: DuncanFeet_7
+  - first:
+      213: 7636984241580465243
+    second: DuncanFeet_8
+  - first:
+      213: 8562515347778715354
+    second: DuncanFeet_9
+  - first:
+      213: 6608733877036446291
+    second: DuncanFeet_10
+  - first:
+      213: 7311848774544805923
+    second: DuncanFeet_11
+  - first:
+      213: 6686090327024174129
+    second: DuncanFeet_12
+  - first:
+      213: 1476033556167275260
+    second: DuncanFeet_13
+  - first:
+      213: 639242061681883665
+    second: DuncanFeet_14
+  - first:
+      213: 6523765324194635666
+    second: DuncanFeet_15
+  - first:
+      213: 7468308266694392063
+    second: DuncanFeet_16
+  - first:
+      213: -3151037872829082721
+    second: DuncanFeet_17
+  - first:
+      213: 2493919225051226698
+    second: DuncanFeet_18
+  - first:
+      213: 2103992623499625200
+    second: DuncanFeet_19
+  - first:
+      213: 3965638593663830196
+    second: DuncanFeet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuncanFeet_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2061
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c4183afaf17f310800000000000000
+      internalID: 1438653445191060589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2061
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a6e9a79625af8c0800000000000000
+      internalID: -3964765908964054387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_2
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2061
+        width: 313
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f91a8903a8bf440800000000000000
+      internalID: 4970718555057266521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_3
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2061
+        width: 313
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa87712a2f54b1d0800000000000000
+      internalID: -3335936789419947349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_4
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2061
+        width: 313
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cebc9e03c10e6950800000000000000
+      internalID: 6444090054089162440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1561
+        width: 313
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6538cd29a90b60800000000000000
+      internalID: 7712881850946252269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1561
+        width: 313
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb91e1afb813ded0800000000000000
+      internalID: -2390539765869863959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_7
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1561
+        width: 313
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f989a25aac4bb10800000000000000
+      internalID: 1996443345565032245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1561
+        width: 313
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cd8aa84b40cf960800000000000000
+      internalID: 7636984241580465243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_9
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1561
+        width: 313
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3e28b75a24d670800000000000000
+      internalID: 8562515347778715354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1061
+        width: 313
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f8d35270f6bb50800000000000000
+      internalID: 6608733877036446291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1061
+        width: 313
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3205e1a78b7e87560800000000000000
+      internalID: 7311848774544805923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_12
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1061
+        width: 313
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134837e5ab3c9cc50800000000000000
+      internalID: 6686090327024174129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_13
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1061
+        width: 313
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf238efe2bceb7410800000000000000
+      internalID: 1476033556167275260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_14
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1061
+        width: 313
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a790ca44b0fd800800000000000000
+      internalID: 639242061681883665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 561
+        width: 313
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fd1aa7ff1198a50800000000000000
+      internalID: 6523765324194635666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 561
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8be6dbcc2c4a760800000000000000
+      internalID: 7468308266694392063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_17
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 561
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935834efb34544d0800000000000000
+      internalID: -3151037872829082721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_18
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 561
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4222b3625e2c9220800000000000000
+      internalID: 2493919225051226698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_19
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 561
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2ccb5c422e23d10800000000000000
+      internalID: 2103992623499625200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuncanFeet_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b889e24a47c80730800000000000000
+      internalID: 3965638593663830196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
