@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DuncanFeet_0: 1438653445191060589
+      DuncanFeet_1: -3964765908964054387
+      DuncanFeet_10: 6608733877036446291
+      DuncanFeet_11: 7311848774544805923
+      DuncanFeet_12: 6686090327024174129
+      DuncanFeet_13: 1476033556167275260
+      DuncanFeet_14: 639242061681883665
+      DuncanFeet_15: 6523765324194635666
+      DuncanFeet_16: 7468308266694392063
+      DuncanFeet_17: -3151037872829082721
+      DuncanFeet_18: 2493919225051226698
+      DuncanFeet_19: 2103992623499625200
+      DuncanFeet_2: 4970718555057266521
+      DuncanFeet_20: 3965638593663830196
+      DuncanFeet_3: -3335936789419947349
+      DuncanFeet_4: 6444090054089162440
+      DuncanFeet_5: 7712881850946252269
+      DuncanFeet_6: -2390539765869863959
+      DuncanFeet_7: 1996443345565032245
+      DuncanFeet_8: 7636984241580465243
+      DuncanFeet_9: 8562515347778715354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

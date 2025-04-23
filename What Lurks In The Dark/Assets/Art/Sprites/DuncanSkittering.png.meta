@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DuncanSkittering_0: -6630684765218262739
+      DuncanSkittering_1: -8848960065336340520
+      DuncanSkittering_2: 4888060730338533971
+      DuncanSkittering_3: -657157590894815009
+      DuncanSkittering_4: 455577395436789771
+      DuncanSkittering_5: 5192678063134512279
+      DuncanSkittering_6: -7657194673078355578
+      DuncanSkittering_7: 3351987821353979809
+      DuncanSkittering_8: -4023571281455731065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

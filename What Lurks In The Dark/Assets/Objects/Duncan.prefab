@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 5723180556790706398}
   - component: {fileID: 3563207880950890877}
   - component: {fileID: 5558920190356382031}
+  - component: {fileID: 8202262618401588423}
+  - component: {fileID: 5812231067897095307}
   m_Layer: 0
   m_Name: Duncan
   m_TagString: Duncan
@@ -124,3 +126,41 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.10500038, y: 0.7018299}
   m_Radius: 1.2967523
+--- !u!95 &8202262618401588423
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1728752444096279791}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ca4086e387c5ade4c81e2ef9132d9f57, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5812231067897095307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1728752444096279791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7611b4ef95dad4db2204ca5a0912fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EvoStage: 0
+  Food: 0
+  Happiness: 50
+  CanEvolve: 0
